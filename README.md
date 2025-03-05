@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shivakrishnabeeraboina@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing](https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kk_tqjOwx0yN_I1lSljmKHWDpXyO-GBq/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
