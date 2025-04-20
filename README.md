@@ -1,4 +1,4 @@
-<div style="background-color:#2E2E2E; padding:20px">
+<div style="background-color:#FFFFFF; padding:20px">
 <h1 align="center">Hello 👋, I'm Shiva Krishna Beeraboina</h1>
 <h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | Microsoft & CodeClause Intern | Binance Hackathon Winner</h3>
 
